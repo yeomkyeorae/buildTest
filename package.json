@@ -1,8 +1,9 @@
 {
   "name": "buildTest",
   "version": "1.0.0",
-  "description": "",
+  "description": "test",
   "main": "index.js",
+  "private": "true"
   "scripts": {
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
